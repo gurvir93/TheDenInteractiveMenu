@@ -1,0 +1,20 @@
+﻿Wings;By the pound. Choice of hot, medium, salt & pepper, lemon pepper, Jack Daniel's BBQ, honey garlic, teriyaki, chipotle lime, butter chicken, or dry Frank's Red Hot seasoning.;11;Salt & Pepper,Honey,Teriyaki Sauce,Chipotle lime,BBQ;appetizers;Gluten;chicken;buffalo_chicken_wing.jpg
+House;Baby organic greens, cucumber, grape tomatoes, carrot, and choice of dressing: orange balsamic, raspberry, ranch, Thousand Island, Italian or oil and vinegar.;6.75;Greens,Cucumber,Grape Tomatoes,Carrots,Ranch;salad;none;veggie;nacho_cheese.jpg
+Chicken Fingers;Served with fries and plum sauce.;9.50;Plum Sauce,Fries,Buffalo,Ranch Sauce,Hot;appetizer;Gluten;chicken;buffalo_chicken_wing.jpg
+Deep Fried Breaded Agnolotti Pasta;8pcs filled with mozzarella cheese. Served with a tomato pesto sauce.;10;Mozzarella cheese,Tomato,Extra cheese,Garlic,Chicken bits;appetizer;Gluten;vegan;tuna_blt_sandwich.jpg
+Pepperoni;Pepperoni, tomato sauce, and mozzarella.;14.5;Mozzarella,Tomato Sauce,Extra pepperoni,Mushroom,Green peppers;pizza;none;peanut;soup.jpg
+Meat Supreme;Honey ham, bacon, pepperoni, tomato sauce and mozzarella cheese.;16;Tomato Sauce,Extra pepperoni,Extra bacon,Extra ham;pizza;none;peanut;salmon.jpg
+Hawaiian;Honey ham, pineapple, tomato sauce, and mozzarella cheese.;14.50;Tomato Sauce,Extra ham,Bacon,Extra cheese,Extra Bacon;pizza;none;peanut;salmon.jpg
+Classic Cheeseburger;Choice of cheddar, Swiss, or mozzarella.;10;Cheddar,Swiss,Mozzarella,Bacon,Extra cheese;burger;none;beef;burger.jpg
+Homemade Veggie Burger;With guacamole and sautéed mushrooms.;11;Guacamole,Mushroom,Extra guacamole,Extra mushroom,Extra bean;burger;none;vegan;buffalo_chicken_wing.jpg
+The Reloaded;Cheddar and mozzarella cheese, sautéed mushroom mix, and crisp bacon.;12.25;Cheddar,Mozzarella cheese,Sautéed mushroom,Bacon,Extra cheese;burger;none;beef;burger.jpg
+Caesar Salad;Romaine lettuce, creamy garlic dressing, croutons, and Parmesan cheese;6.75;Lettuce,Garlic dressking,Croutons,Parmesan cheese,Bacon bits;salad;none;veggie;salmon.jpg
+Chicken Taco Salad;Roasted corn, black beans, red peppers, cucumber, chipotle lime chicken, salsa, and shredded cheese. Served in a tomato tortilla bowl with cilantro black bean vinaigrette.;10.5;Corn,Black beans,Red Pepper,Cucumber,Chipotle lime chicken;salad;none;chicken;soup.jpg
+Lychee Panna Cotta;Silky smooth lychee panna cotta topped with mango gelee. Served with sugar cookie shards.;6.5;Lychee,Mango,Cookie shards,Chocolate melts,Sprinkles;dessert;none;none;nacho_cheese.jpg
+Salad;beef;6.69;Lettuce,Garlic dressking,Croutons,Parmesan cheese,Bacon bits;salad;none;beef;salmon.jpg
+Pizza;seafood;17.29;Lettuce,Garlic dressking,Croutons,Parmesan cheese,Bacon bits;pizza;none;seafood;salmon.jpg
+Burger;peanut;12.50;Lettuce,Garlic dressking,Croutons,Parmesan cheese,Bacon bits;burger;none;peanut;salmon.jpg
+Poutine;vegan;12.50;Lettuce,Garlic dressking,Croutons,Parmesan cheese,Bacon bits;poutine;none;vegan;salmon.jpg
+Wings;By the pound. Choice of hot, medium, salt & pepper, lemon pepper, Jack Daniel's BBQ, honey garlic, teriyaki, chipotle lime, butter chicken, or dry Frank's Red Hot seasoning.;11;Salt & Pepper,Honey,Teriyaki Sauce,Chipotle lime,BBQ;special;Gluten;chicken;buffalo_chicken_wing.jpg
+House;Baby organic greens, cucumber, grape tomatoes, carrot, and choice of dressing: orange balsamic, raspberry, ranch, Thousand Island, Italian or oil and vinegar.;6.75;Greens,Cucumber,Grape Tomatoes,Carrots,Ranch;special;none;veggie;nacho_cheese.jpg
+EOF

@@ -1,0 +1,189 @@
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.exe
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\bin\Debug\WpfApplication2.pdb
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.baml
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\MainWindow.g.cs
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\App.g.cs
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.exe
+\\cs-fs01\profiles\ug\singhga\documents\visual studio 2013\Projects\WpfApplication2\WpfApplication2\obj\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\temp\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+E:\Libraries\Documents\Visual Studio 2013\Projects\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+E:\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+E:\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+E:\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.baml
+E:\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.g.cs
+F:\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb
+F:\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+F:\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.baml
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.g.cs
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+F:\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb
+U:\Documents\cpsc481HCI\the-den-interactive-menu3\WpfApplication2\obj\Debug\mainMenu.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\CallServerConfirmUC.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\helpOverlayUC.baml
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\CallServerConfirmUC.g.cs
+U:\Documents\cpsc481HCI\the-den-interactive-menu\WpfApplication2\obj\Debug\helpOverlayUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\CallServerConfirmUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\helpOverlayUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\mainMenu.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\menuInfo_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\menuItem_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\OrderConfirmUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\CallServerConfirmUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\helpOverlayUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\mainMenu.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\menuItem_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\OrderConfirmUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\bin\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu copy\WpfApplication2\bin\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe.config
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\bin\Debug\WpfApplication2.pdb
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\CallServerConfirmUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\helpOverlayUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.baml
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\CallServerConfirmUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\helpOverlayUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\mainMenu.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\menuInfo_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\menuItem_template.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\OrderConfirmUC.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.g.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\Intro.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.exe
+\\cs-fs01\Profiles\ug\pbi\Desktop\the-den-interactive-menu\WpfApplication2\obj\Debug\WpfApplication2.pdb

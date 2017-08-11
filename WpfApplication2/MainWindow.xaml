@@ -1,0 +1,21 @@
+﻿<Window x:Class="WpfApplication2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Interactive Restaurant Menu" Height="768" Width="1366" ResizeMode="NoResize" >
+
+    <DockPanel x:Name="dockMainWin" LastChildFill="True">
+        <Grid Background="#292421">
+            <Image x:Name="intro_image" Source="IntroScreen.jpg" Stretch="Fill" MouseLeftButtonDown="image_clicked" />
+            <StackPanel Name="stack_mainMenu">
+            </StackPanel>
+            <StackPanel Name="stack_confirmationControl">
+            </StackPanel>
+            <StackPanel Name="stack_callServerConfirm">
+            </StackPanel>
+            <StackPanel Name="stack_infoScreen">
+            </StackPanel>
+            <StackPanel Name="stack_helpOverlay">
+            </StackPanel>
+        </Grid>
+    </DockPanel>
+</Window>

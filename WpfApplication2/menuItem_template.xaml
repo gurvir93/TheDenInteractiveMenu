@@ -1,0 +1,51 @@
+﻿<UserControl x:Class="WpfApplication2.menuItem_template"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="350">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="15"></RowDefinition>
+            <RowDefinition Height="100"></RowDefinition>
+            <RowDefinition Height="50"></RowDefinition>
+            <RowDefinition Height="90"></RowDefinition>
+            <RowDefinition Height="45"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="25"></ColumnDefinition>
+            <ColumnDefinition Width="100"></ColumnDefinition>
+            <ColumnDefinition Width="131"></ColumnDefinition>
+            <ColumnDefinition Width="69"></ColumnDefinition>
+            <ColumnDefinition Width="25"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <Image x:Name="DishImage" Grid.Row="1" Grid.Column="1" Grid.RowSpan="1" Grid.ColumnSpan="3" Source="Salmon.jpg"></Image>
+        <Viewbox Grid.Row="2" Grid.Column="1" Grid.ColumnSpan="2" Grid.RowSpan="1">
+            <TextBlock x:Name="DishName" Text="Mushroom Duxelles Stuffed Pasta Shells" 
+                       TextWrapping="Wrap" Width="194" Height="40" Foreground="White" FontFamily="Khmer UI" Margin="5, 3, 0, 0" FontSize="18" TextDecorations="{x:Null}">
+                <TextBlock.Background>
+                    <ImageBrush/>
+                </TextBlock.Background>
+            </TextBlock>
+        </Viewbox>
+
+        <Label Name="DishPrice" Content="$12.50"
+               Grid.Row="2" Grid.Column="3" VerticalContentAlignment="Center" HorizontalContentAlignment="Right" FontSize="14" FontFamily="Khmer UI" Foreground="White" FontStyle="Italic" Margin="8,0,7,0"/>
+        <TextBlock Name="Description" TextWrapping="Wrap"
+                   Grid.Row="3" Grid.Column="1" Grid.ColumnSpan="3" Background="{x:Null}" FontSize="15" Foreground="White" Margin="4,-2,16,6"
+                   Text="Pasta Shells stuffed with Duxelles. Served in a lobster bisque sauce and arbished with dill, chives and cream cheese." FontFamily="Khmer UI" FontStyle="Italic"/>
+        <Button Name="Add_Button" Content="ADD"
+            Grid.Row="4" Grid.Column="1" FontFamily="Gulim" FontSize="18" Foreground="White" Grid.ColumnSpan="2" Margin="0,0,84,0" BorderBrush="{x:Null}" Click="Add_Button_Click">
+            <Button.Background>
+                <ImageBrush ImageSource="button2.png"/>
+            </Button.Background>
+        </Button>
+        <Button Name="Info_Button" Content="OPTIONS" 
+                Grid.Row="4" Grid.Column="2" FontFamily="Gulim" FontSize="18" Foreground="White" Click="Info_Button_Click" Grid.ColumnSpan="2" Margin="52,0,0,0" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="button2.png"/>
+            </Button.Background>
+        </Button>
+    </Grid>
+</UserControl>

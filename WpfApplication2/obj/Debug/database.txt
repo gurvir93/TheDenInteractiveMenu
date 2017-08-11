@@ -1,0 +1,7 @@
+Curry Fried Chicken;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;peanut
+Curry Fried Chicken2;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;none
+Curry Fried Chicken3;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;none
+Mash Potato;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;none
+Cooked porkchop;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;none
+Curry Fried Chicken;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;none
+Curry Fried Chicken;Dish description goes here;12.50;tomato,eggs,wtf,hashbrown,mofo;special;none
